@@ -1,4 +1,17 @@
 # Week 8 Notes
+<!-- vim-markdown-toc GFM -->
+
+- [K-means](#k-means)
+- [Mixture models](#mixture-models)
+   - [Types](#types)
+   - [Strengths and weaknesses](#strengths-and-weaknesses)
+   - [Expectation Maximisation (EM) Algoritm](#expectation-maximisation-em-algoritm)
+      - [Steps:](#steps)
+      - [Picking _k_](#picking-_k)
+- [Dimensionality Reduction](#dimensionality-reduction)
+   - [Factor Analysis](#factor-analysis)
+
+<!-- vim-markdown-toc -->
 
 ## K-means
 
