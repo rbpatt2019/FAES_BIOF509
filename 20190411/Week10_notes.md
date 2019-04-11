@@ -20,6 +20,7 @@ Guest lecture, Jesse Tetreault, Solutions Architect, NVIDIA
    - [1. Training](#1-training)
    - [2. Inference](#2-inference)
 - [Convolution](#convolution)
+- [Regularisation](#regularisation)
 
 <!-- vim-markdown-toc -->
 
@@ -124,5 +125,11 @@ Slide a filter over a data. This encodes a new image/matrix that encodes some fe
 
 In a neural network, a Convolutional layer gets blank convolutions and learns what they need to be
 
+## Regularisation
 
+Any method used that doesn't change training performance but improves testing performace
+
+Normally something like L1 to decat weights and prevent over-capacity
+
+Dropout - don't use the whole network
 
